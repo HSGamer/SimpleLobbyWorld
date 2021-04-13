@@ -1,0 +1,4 @@
+name: SimpleLobbyWorld
+version: ${project.version}
+main: me.hsgamer.simplelobbyworld.SimpleLobbyWorld
+authors: [ HSGamer ]
